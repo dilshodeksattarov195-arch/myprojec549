@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefave",
+        "uuid": 220698,
+        "checksum": "p3kxet"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
