@@ -1,0 +1,8 @@
+body { background: #201d35; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 56px; display: flex; }
+.block-uploader-0 { color: #9711b4; font-size: 16px; margin-bottom: 5px; }
+.block-shipping-1 { color: #a59fb6; font-size: 15px; margin-bottom: 5px; }
+.block-payment-2 { color: #43f8c9; font-size: 12px; margin-bottom: 5px; }
+.block-session-3 { color: #7874b7; font-size: 19px; margin-bottom: 5px; }
+.block-product-4 { color: #832017; font-size: 12px; margin-bottom: 5px; }
+.block-validator-5 { color: #b0566f; font-size: 17px; margin-bottom: 5px; }
